@@ -1,0 +1,1 @@
+Olá! Este projeto irá te ensinar a criar um programa Bubble Sort, ou algoritmo da bolha, em linguagem C, geralmente usado para ordenar pequenas listas de dados.
